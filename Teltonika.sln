@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teltonika", "Teltonika\Teltonika.csproj", "{9AD34A90-F790-4495-8111-72926C1B6E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD34A90-F790-4495-8111-72926C1B6E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD34A90-F790-4495-8111-72926C1B6E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD34A90-F790-4495-8111-72926C1B6E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD34A90-F790-4495-8111-72926C1B6E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C46358E-87BE-492B-BF77-EC48DADF6F9A}
+	EndGlobalSection
+EndGlobal
